@@ -1,3 +1,0 @@
-sentiment analysis-models to use......logistic regression, naive bayes classifier, decision trees, random forest, SVM's...
-
-imbalanced class--------random forest(best  for case).
