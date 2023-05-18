@@ -1,8 +1,0 @@
-helmet detection 
-checkout
-Customer segmentation using k means
-Demand forecasting.
-
-
-product classifcation
-Product recommendation using  image clasification
